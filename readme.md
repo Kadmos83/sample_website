@@ -1,5 +1,7 @@
 # Sample Website
 
+hier is de link: https://kadmos83.github.io/sample_website/
+
 This is a sample website made as part of [*Learn Enough™ Git to Be
 Dangerous*](https://www.learnenough.com/git-tutorial), possibly the greatest
 beginner Git tutorial in the history of the Universe. You should totally [
